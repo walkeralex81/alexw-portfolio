@@ -177,7 +177,7 @@ a {
 
 .socials-container-footer {
   display: flex;
-  flex: start;
+
   justify-content: center;
 }
 .footer-social {
