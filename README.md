@@ -1,2 +1,2 @@
 # alexw-portfolio
-clone using ssh i
+clone using ssh
